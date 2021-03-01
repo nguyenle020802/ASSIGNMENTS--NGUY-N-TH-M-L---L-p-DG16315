@@ -1,0 +1,12 @@
+
+.detail{
+    width: 100%;
+}
+.detail-image{
+    width: 40%;
+    float: left;
+}
+.detail-content{
+    width: 60%;
+    float: right;
+}
